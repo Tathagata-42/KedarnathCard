@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+}
+.card{
+    background-color: white;
+    height: 525px;
+    width: 311px;
+    border-radius: 11px;
+
+}
+.image{
+    padding: 5px;
+   
+}
+.image img{
+    border-radius: 11px;
+}
+.buttons{
+    padding: 5px;
+    
+}
+.buttons input{
+    border-radius: 5px;
+    color: blue;
+}
+.content {
+    font-size: 10px;
+    padding: 3px;
+}
+.content p{
+    color: gray;
+    font-family: cursive;
+}
+.lastbutton{
+    text-align: center;
+    
+}
+.lastbutton input{
+    border-radius: 11px;
+    color: blueviolet;
+    font-weight: bold;
+}
